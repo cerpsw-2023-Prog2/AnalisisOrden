@@ -4,3 +4,7 @@
  */
 
 // Comenzamos a trabajar
+
+
+float buscarMinimo(float ventas[], int numDias);
+
