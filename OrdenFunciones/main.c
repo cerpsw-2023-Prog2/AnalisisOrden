@@ -1,17 +1,6 @@
-// iniciamos Domingo
-// commit nooel
-// hola
-// ssss MatíasOtte
-// Leo
-// Laura
+/**
+ *  @brief Proyecto de teorico analisis de algoritmos 1.2 Nocion de Ordenes
+ *
+ */
 
-#include <stdio.h>
-
-int resta(int a, int b){
-    return a-b;
-float buscarMinimo(float ventas[], int numDías);
-}
-
-int suma(int a, int b){
-    return a+b;
-}
+// Comenzamos a trabajar
