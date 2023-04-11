@@ -4,3 +4,7 @@
  */
 
 // Comenzamos a trabajar ahora
+
+int buscarMaximo(int ventas[], int numDias){
+    return 0;
+}
