@@ -3,4 +3,10 @@
  *
  */
 
-// Comenzamos a trabajar ahora
+// Comenzamos a trabajar
+
+#include <stdio.h>
+
+float calcularPromedio (float ventas[], int numDias){
+    return ventas/numDias;
+}
