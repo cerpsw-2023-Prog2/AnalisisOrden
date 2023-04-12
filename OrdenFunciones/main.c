@@ -3,9 +3,7 @@
  *
  */
 
-// Comenzamos a trabajar ahora
-
-#include <stdio.h>
+#include<stdio.h>
 
 int suma(int a, int b){
     return a+b;
@@ -16,4 +14,9 @@ int buscarVentaExponencial(float ventas[], int numDias, float venta){
         if(ventas[i]==venta) return 1;
     } 
     return 0;
+}
+
+int main (){
+    printf("Hola mundo");
+    return 0; 
 }
